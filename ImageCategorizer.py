@@ -1,5 +1,5 @@
 #Aiden Rocha
-#practice pytorch unit 8
+#practice with pytorch
 
 #The full model building process
 
